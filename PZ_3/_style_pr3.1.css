@@ -1,0 +1,21 @@
+body{
+    background-image: url(pr3.jpg);;
+}
+h3{
+    color: #C9263A
+}
+table{
+	border-collapse: separate;
+	padding:auto;
+	font-weight: bold;
+	border:5px outset #BFBFBF;
+}
+th{
+    color:#C9263A;
+    background-color: #BFBFBF;
+}
+tr,td{
+	border:1px solid gray;
+	padding-left: 50px;
+	font-weight: bold;
+}
